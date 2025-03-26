@@ -1,4 +1,4 @@
-![MyGitQr](../MyGitQr.jpg)
+![MyGitQR](MyGitQr.jpg)
 # QR Code Generator
 
 This project is a simple Python-based QR Code Generator. It allows users to create QR codes from text or URLs and save them as image files.
